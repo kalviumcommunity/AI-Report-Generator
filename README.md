@@ -32,5 +32,5 @@ Electric vehicles (EVs) significantly reduce greehouse gas emissions, especially
 - Governments worldwide incentiveze EV adoption for climate goals
 
 ## References
--[1] IEA Report
--[2] Nature Journal 2023 
+-[1] IEA Report 2024 - https://www.iea.org/...
+-[2] Nature Journal 2023 - https://www.nature.com/...
